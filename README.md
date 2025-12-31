@@ -3,7 +3,7 @@
 
 💻 About Me
 ------------
-Hi there! I'm **Erin Jin Jeong**, a passionate **Full Stack Developer** with 3 years of experience 
+Hi there! I'm **Erin Jin Jeong**, a passionate **Full Stack Developer** with 1 years of experience 
 crafting scalable web applications, modern UI/UX, and clean, maintainable code.  
 I believe in *building systems that people love to use* — elegant, fast, and meaningful.  
 
@@ -14,12 +14,12 @@ I believe in *building systems that people love to use* — elegant, fast, and m
 Frontend:
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js / Next.js / Angular
-- Tailwind CSS / Bootstrap / Ant Design
+- Tailwind CSS / Bootstrap / Ant Design 
 
 Backend:
 - Node.js / Express.js / NestJS
 - Java (Spring Boot)
-- Python (FastAPI / Flask)
+
 
 Database:
 - MongoDB / MySQL / PostgreSQL / SQL Server
@@ -35,16 +35,16 @@ Tools & DevOps:
 
 📈 Experience
 -------------
-🕓 3 Years of Full Stack Development  
+🕓 1 Years of Full Stack Development  
 - Built and deployed full-scale web apps for e-commerce, data dashboards, and community platforms  
 - Collaborated with cross-functional teams using Agile / Scrum  
 - Mentored junior developers and conducted code reviews  
 
 💬 Let’s Connect
 ----------------
-📧 Email: erinjinjeong.dev@gmail.com  
-💼 LinkedIn: [linkedin.com/in/erinjinjeong](https://linkedin.com/in/erinjinjeong)  
-🌐 Portfolio: [erinjinjeong.dev](https://erinjinjeong.dev)  
+📧 Email: naga221b@gmail.com
+💼 LinkedIn: 
+🌐 Portfolio: 
 🐙 GitHub: [github.com/Erin-Jin-Jeong](https://github.com/Erin-Jin-Jeong)
 
 🧠 Motto
